@@ -42,8 +42,6 @@ style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" style="padding-right:10px;" />
-
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 <br />
@@ -54,6 +52,6 @@ style="padding-right:10px;" />
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="berzankocdag's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=berzankocdag&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="berzankocdag's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=berzankocdag&show_icons=true&hide_border=false&title_color=70a5fd&icon_color=bf91f3&bg_color=09131B&text_color=38bdae&border_color=1a1b27" />
 
 </details>
