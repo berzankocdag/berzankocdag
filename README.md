@@ -1,10 +1,10 @@
 # Hi there, I'm Berzan 👋 
 
-## I'm a Student, Developer, and Musician!!
+## DevOps Learner • Software Developer • Lighting Designer • Musician
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play clarinet
+- 🎯 Currently shifting into DevOps / Cloud Engineering
+- 👯 Open to collaboration on creative tech or DevOps-related side projects
+- 🎧 Passionate about combining music + technology (Lighting, Audio, AI projects)
 
 ### Connect with me:
 
