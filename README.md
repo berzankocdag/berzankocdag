@@ -6,7 +6,7 @@ Cologne, Germany
 
 ---
 
-I'm a software developer with 3 years of production experience, currently transitioning into cloud and DevOps engineering.
+I'm a Software Developer with 3 years of production experience, currently transitioning into Cloud and DevOps Engineering.
 
 Passionate about the intersection of music technology and software. I've spent 16 years in live event production and now build tools for the industry.
 
