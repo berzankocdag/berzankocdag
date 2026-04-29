@@ -26,7 +26,7 @@ Passionate about the intersection of music technology and software. I've spent 1
 ### Tech Stack
 
 **Cloud & DevOps**:
-Docker • Kubernetes (K8n) • Terraform • GitHub Actions • Jenkins • AWS (EC2, S3, Lambda, CloudFront, IAM) • Azure • Linux • CI/CD • Elasticsearch • Kibana • New Relic • Prometheus • Grafana • Loki
+Docker • Kubernetes (K8s) • Terraform • GitHub Actions • Jenkins • AWS (EC2, S3, Lambda, CloudFront, IAM) • Azure • Linux • CI/CD • Elasticsearch • Kibana • New Relic • Prometheus • Grafana • Loki
 
 **Backend**:
 Python • FastAPI • PostgreSQL • REST APIs
