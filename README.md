@@ -1,41 +1,42 @@
 # Berzan Kocdag
 
-**Software Developer → Cloud & DevOps Engineer**
+**Cloud Engineer & Software Developer**
 
 Cologne, Germany
 
 ---
 
-I'm a Software Developer with 3 years of production experience, currently transitioning into Cloud and DevOps Engineering.
+Software Developer with 3 years of production experience. Passionate about the intersection of 
+music technology and software — 16 years in live event production, 
+now building tools for the industry.
 
-Passionate about the intersection of music technology and software. I've spent 16 years in live event production and now build tools for the industry.
-
-- 🚀 Currently building real infrastructure projects with K8s, Terraform, and cloud-native observability stacks
+- Building cloud-native infrastructure with K8s, Terraform, and Azure
+  
+---
+### Connect
+[![website](./img/globe-light.svg)](https://berzankocdag.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://berzankocdag.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/berzankocdag#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/berzankocdag#gh-dark-mode-only)
 
 ---
 
-### Connect
-
-[![website](./img/globe-light.svg)](https://berzankocdag.com)
-[![website](./img/globe-dark.svg)](https://berzankocdag.com)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/berzankocdag)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/berzankocdag)
-
-
 ### Tech Stack
 
-**Cloud & DevOps**:
-Docker • Kubernetes (K8s) • Terraform • GitHub Actions • Jenkins • AWS (EC2, S3, Lambda, CloudFront, IAM) • Azure • Linux • CI/CD • Elasticsearch • Kibana • New Relic • Prometheus • Grafana • Loki
+**Cloud & DevOps**
+Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • 
+AWS (EC2, S3, Lambda, CloudFront, IAM) • Azure • Linux • CI/CD • 
+Elasticsearch • Kibana • New Relic • Prometheus • Grafana • Loki
 
-**Backend**:
-Python • FastAPI • PostgreSQL • REST APIs
+**Backend**
+Python • FastAPI • PostgreSQL • REST APIs • Java • Node.js
 
-**Frontend**:
+**Frontend**
 React • TypeScript • JavaScript
 
-**Other**:
- C++ • C# • Bash • SQL 
+**Other**
+Bash • SQL • C++ • C#
 
 ---
 
